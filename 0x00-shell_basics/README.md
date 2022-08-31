@@ -17,3 +17,4 @@ All of the following files are scripts:
 | [`3-listfiles`](3-listfiles) | Display current directory contents in a long format. |
 | [`4-listmorefiles`](4-listmorefiles) | Display current directory contents, including hidden files (starting with .). |
 | [`5-listfilesdigitonly`](5-listfilesdigitonly) | Display current directory contents. |
+| [`6-firstdirectory`](6-firstdirectory) | Creates a directory named `my_first_directory` in the `/tmp/` directory.. |
