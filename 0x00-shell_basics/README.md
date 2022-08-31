@@ -23,3 +23,4 @@ All of the following files are scripts:
 | [`9-firstdirdeletion`](9-firstdirdeletion) | Deletes the directory `my_first_directory` that is in the `/tmp` directory. |
 | [`10-back`](10-back) | Changes the working directory to the previous one. |
 | [`11-lists`](11-lists) | Lists all files in the current directory and its parent directory and the `/boot` directory. |
+| [`12-file_type`](12-file_type) | Prints the type of the file named `iamafile` that is in the `/tmp` directory. |
