@@ -11,4 +11,4 @@ All of the following folders are projects done during the studies:
 
 | Project name | Description |
 | ------------ | ----------- |
-| [`0x00-shell_basics`](0x00-shell_basics) | It aims to le  arn about basics commands, navigation, files and directories in **Shell** |
+| [`0x00-shell_basics`](0x00-shell_basics) | It aims to learn about basics commands, navigation, files and directories in **Shell** |
