@@ -25,3 +25,4 @@ All of the following files are scripts:
 | [`11-lists`](11-lists) | Lists all files in the current directory and its parent directory and the `/boot` directory. |
 | [`12-file_type`](12-file_type) | Prints the type of the file named `iamafile` that is in the `/tmp` directory. |
 | [`13-symbolic_link`](13-symbolic_link) | Creates a symbolic link to `/bin/ls`, named `__ls__`. |
+| [`14-copy_html`](14-copy_html) |	Copies all the HTML files from the current working directory to the parent directory, but only copies files that did not exist in the parent directory. |
