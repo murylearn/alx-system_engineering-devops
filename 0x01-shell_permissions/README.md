@@ -16,8 +16,8 @@ All of the following files are scripts:
 | [`2-groups`](2-groups) | Prints all the groups the current user is part of. |
 | [`3-new_owner`](3-new_owner) | Changes the owner of the file `hello` to the user `betty`. |
 | [`4-empty`](4-empty) | Creates an empty file called `hello`. |
-| [`5-execute`](5-execute) |  |
-| [`6-multiple_permissions`](6-multiple_permissions) |  |
+| [`5-execute`](5-execute) | Adds execute permission to the owner of the file `hello`. |
+| [`6-multiple_permissions`](6-multiple_permissions) | Adds execute permission to the owner and the group owner, and reads permission to other users, to the file `hello`. |
 | [`7-everybody`](7-everybody) |  |
 | [`8-James_bond`](8-James_bond) |  |
 | [`9-John_Doe`](9-John_Doe) |  |
