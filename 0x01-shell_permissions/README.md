@@ -18,8 +18,8 @@ All of the following files are scripts:
 | [`4-empty`](4-empty) | Creates an empty file called `hello`. |
 | [`5-execute`](5-execute) | Adds execute permission to the owner of the file `hello`. |
 | [`6-multiple_permissions`](6-multiple_permissions) | Adds execute permission to the owner and the group owner, and reads permission to other users, to the file `hello`. |
-| [`7-everybody`](7-everybody) |  |
-| [`8-James_bond`](8-James_bond) |  |
+| [`7-everybody`](7-everybody) | Adds execution permission to the owner, the group owner and the other users, to the file `hello`. |
+| [`8-James_bond`](8-James_bond) | Write a script that sets the permission to the file `hello` to other users. |
 | [`9-John_Doe`](9-John_Doe) |  |
 | [`10-mirror_permissions`](10-mirror_permissions) |  |
 | [`11-directories_permissions`](11-directories_permissions) |  |
