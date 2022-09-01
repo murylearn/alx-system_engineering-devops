@@ -11,7 +11,7 @@ All of the following files are scripts:
 
 | Filename | Description |
 | -------- | ----------- |
-| [`0-iam_betty`](0-iam_betty) |  |
+| [`0-iam_betty`](0-iam_betty) | Switches the current user to `betty` |
 | [`1-who_am_i`](1-who_am_i) |  |
 | [`2-groups`](2-groups) |  |
 | [`3-new_owner`](3-new_owner) |  |
