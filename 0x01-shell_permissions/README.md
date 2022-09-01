@@ -20,8 +20,8 @@ All of the following files are scripts:
 | [`6-multiple_permissions`](6-multiple_permissions) | Adds execute permission to the owner and the group owner, and reads permission to other users, to the file `hello`. |
 | [`7-everybody`](7-everybody) | Adds execution permission to the owner, the group owner and the other users, to the file `hello`. |
 | [`8-James_bond`](8-James_bond) | Write a script that sets the permission to the file `hello` to other users. |
-| [`9-John_Doe`](9-John_Doe) |  |
-| [`10-mirror_permissions`](10-mirror_permissions) |  |
+| [`9-John_Doe`](9-John_Doe) | Sets the `-rwxr-x-wx` permissions to the file `hello`. |
+| [`10-mirror_permissions`](10-mirror_permissions) | Sets the mode of the file `hello` the same as `olleh`'s mode |
 | [`11-directories_permissions`](11-directories_permissions) |  |
 | [`12-directory_permissions`](12-directory_permissions) |  |
 | [`13-change_group`](13-change_group) |  |
